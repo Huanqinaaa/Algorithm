@@ -1,3 +1,4 @@
+// Given one number, find out the next bigger number composed by the same Arabic numbers.
 function NextBiggerNumber(num) {
     var that = num;
     var num = num.toString().split('');
