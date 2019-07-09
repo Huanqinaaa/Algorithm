@@ -24,5 +24,5 @@ function NextBiggerNumber(num) {
         return (that + ' is already the biggest !');
     }
 }
-var target = NextBiggerNumber(321);
+var target = NextBiggerNumber(123456);
 console.log(target);
