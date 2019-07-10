@@ -17,6 +17,7 @@ function getMaxCountAndChar(str) {
             char = key;
         }
     }
-    console.log("出现最多次数的是:" + char + ",出现了:" + num + "次")
+    console.log("出现最多次数的是:" + char + ",出现了:" + num + "次");
+    obj = {};
 }
 getMaxCountAndChar(str);
