@@ -1,4 +1,4 @@
-
+// 给一个数字，得到由它分解的子数字乘积最大的数字。
  function biggest(n) {
     var k = 2;
 	var a = [0];
